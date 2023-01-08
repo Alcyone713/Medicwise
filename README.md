@@ -109,6 +109,11 @@ The website (*client & server*) is deployed on **Microsoft Azure**. The `Azure A
 - Open admin-portal in command prompt and execute `npm start` command.
 -->
 
+## Contributors
+- [Kartik Mehta](https://github.com/kartikmehta8)
+- [Manasvi Singh Chauhan](https://github.com/Alcyone713)
+
+
 <hr />
 
 <h3 align="center">
